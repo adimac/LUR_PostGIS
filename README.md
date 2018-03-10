@@ -1,5 +1,6 @@
-# LUR_PostGIS
-## PostGIS scripts for Land Use Regression (LUR)/regression mapping. Generate the LUR variables as seen in almost every LUR study.
+# LUR_PostGIS_R
+## PostGIS scripts for Land Use Regression (LUR)/regression mapping. Generate the LUR variables as seen in almost every LUR study
+## R scripts to specify and validate the LUR model.  Also see https://github.com/dwmorley/RLUR for model specification using David's shiny dashboard
 
 
 
